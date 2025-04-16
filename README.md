@@ -6,7 +6,7 @@ This project uses the **Stable Diffusion v1.5** model to transform natural langu
 
 ### 🌆 Example Output – "Futuristic City at Sunset"
 
-[Generated Image](./output.png)
+[Generated Image](output.png))
 
 
 ---
