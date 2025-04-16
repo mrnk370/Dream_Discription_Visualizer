@@ -31,7 +31,7 @@ Whether you're a storyteller, writer, artist, or someone who wants to visualize 
 
 ## 🔍 Key Features
 
-- 🧠 **Text-to-Image AI** powered by [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+- 🧠 **Text-to-Image AI** powered by Stable Diffusion v1.5
 - 🎨 Generate **multiple variations** (1 to 5) of the image
 - 🌐 Fully interactive **Flask web application**
 - 📥 **Download** any generated image directly
